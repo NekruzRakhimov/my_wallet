@@ -9,4 +9,6 @@ func main() {
 	fmt.Println("Adding accounts logic")
 
 	test1()
+
+	GetAllCard()
 }

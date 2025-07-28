@@ -11,4 +11,6 @@ func main() {
 	test1()
 
 	GetAllCard()
+
+	CreateCard()
 }
